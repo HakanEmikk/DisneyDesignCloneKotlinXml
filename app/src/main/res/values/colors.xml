@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background_dark">#526064</color>
-    <color name="surface_dark">#1C1C1E</color>
-    <color name="card_dark">#2C2C2E</color>
+    <color name="primary">#121926</color>
+    <color name="primary_dark">#0B111D</color>
+    <color name="accent">#0072D2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
     <color name="text_primary">#FFFFFF</color>
     <color name="text_secondary">#CCCCCC</color>
-    <color name="white">#FFFFFF</color>
-    <color name="accent_blue">#2196F3</color> <!-- veya #4285F4 -->
+    <color name="background_dark">#121212</color>
+
+
 </resources>
